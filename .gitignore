@@ -5,8 +5,11 @@
 *.mpg
 *.mkv
 *.aac
+*.webm
+
 *.gif
 *.jpg
+*.png
 
 *.flb
 *.kdenlive
