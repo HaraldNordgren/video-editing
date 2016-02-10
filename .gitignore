@@ -12,5 +12,7 @@
 *.jpg
 *.png
 
+*.wav
+
 *.flb
 *.kdenlive
